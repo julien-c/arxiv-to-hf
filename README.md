@@ -4,4 +4,4 @@ Chrome extension to add a link from each Arxiv page to the corresponding HF Pape
 
 ## Screenshot
 
-![](./assets/screenshot.png)
+![](./assets/screenshot.jpg)
