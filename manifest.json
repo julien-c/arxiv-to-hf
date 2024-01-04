@@ -9,5 +9,8 @@
 				"https://arxiv.org/abs/*"
 			]
 		}
-	]
+	],
+	"icons": {
+		"128": "icon.png"
+	}
 }
