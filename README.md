@@ -1,4 +1,4 @@
-# Arxiv-to-hf
+# Arxiv to Huggingface
 
 Chrome extension to add a link from each Arxiv page to the corresponding HF Paper page
 
